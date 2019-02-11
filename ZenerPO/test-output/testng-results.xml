@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8356" started-at="2019-02-11T07:25:59Z" finished-at="2019-02-11T07:26:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8356" started-at="2019-02-11T07:25:59Z" finished-at="2019-02-11T07:26:08Z">
+      <class name="com.qa.zener.testcases.ZenerUserTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.zener.testcases.ZenerUserTest@224edc67]" name="setUp" is-config="true" duration-ms="7334" started-at="2019-02-11T12:55:59Z" finished-at="2019-02-11T12:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyZenerUserTest()[pri:1, instance:com.qa.zener.testcases.ZenerUserTest@224edc67]" name="verifyZenerUserTest" duration-ms="1011" started-at="2019-02-11T12:56:07Z" finished-at="2019-02-11T12:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyZenerUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.zener.testcases.ZenerUserTest@224edc67]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-02-11T12:56:08Z" finished-at="2019-02-11T12:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.zener.testcases.ZenerUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
